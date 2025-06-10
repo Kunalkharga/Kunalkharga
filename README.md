@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 👨‍💻 Computer Science Student | Web Development Enthusiast<br><br>Hi, I'm Kunal Kharga, a Web-developer. On this page, you'll find a range of projects showcasing my work in web development, with a particular focus on HTML, CSS, and JavaScript. I am passionate about web design and continuously seek new challenges to enhance my skills.<br><br>Feel free to reach out if you have any questions or just want to connect! 🚀
+🌐 👨‍💻 Computer Science Student | Web Development Enthusiast<br><br>Hi, I'm Kunal Kharga, a Web-developer. On this page, you'll find a range of projects showcasing my work in web development, with a particular focus on HTML, CSS, JavaScript and PHP. I am passionate about web design and continuously seek new challenges to enhance my skills.<br><br>Feel free to reach out if you have any questions or just want to connect! 🚀
 
 
 ## 🌐 Socials:
